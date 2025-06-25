@@ -1,6 +1,6 @@
 # Advanced-Technologies-Cover-Page
 
-![Advanced-Technologies-Cover-Page Preview](https://github.com/SouravKumarYadav/Advanced-Technologies-Cover-Page/blob/main/Advance%20Technologies%20CoverPage.png)
+![Advanced-Technologies-Cover-Page Preview](https://github.com/SouravKumarYadav/Advanced-Technologies-Cover-Page/blob/main/Advance%20Technologies%20Cover%20Page.png)
 
 > A modern UI section showcasing advanced technologies, built using HTML, CSS, and Bootstrap with a clean card layout and call-to-action buttons.
 
