@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.advanced-technologies-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.advanced-technologies-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 18px;
+}
+
+.advanced-technologies-card-heading {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.advanced-technologies-card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.advanced-technologies-card-button-1 {
+    background-color: #ffffff;
+    color: #171f46;
+    font-family: "Roboto";
+    height: 34px;
+    width: 122px;
+    border-radius: 8px;
+    font-size: 12px;
+    margin-right: 5px;
+    border-width: 1px;
+}
+
+.advanced-technologies-card-button-2 {
+    background-color: #5752ab;
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 34px;
+    width: 122px;
+    border-radius: 8px;
+    font-size: 12px;
+    margin-left: 5px;
+    border-width: 0px;
+}
